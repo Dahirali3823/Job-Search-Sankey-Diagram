@@ -103,8 +103,8 @@ def format():
     sankey = []
 
     # Fetch labels from both accounts and combine them
-    label_account1 = labels("da23ali83@gmail.com", 1)
-    label_account2 = labels("ali00378@umn.edu", 2)
+    label_account1 = labels("email1", 1)
+    label_account2 = labels("email2", 2)
    
 
     # Merge label counts from both accounts
